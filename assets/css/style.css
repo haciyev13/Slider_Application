@@ -16,6 +16,9 @@ li {
     justify-content: center;
     padding-top: 5%;
 }
+body{
+    background: linear-gradient(90deg, rgba(195,212,186,1) 0%, rgba(61,218,112,1) 100%);
+}
 
 
 
